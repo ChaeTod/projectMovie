@@ -1,1 +1,1 @@
-Hitman:120 Island:90 CatchMeIfYouCan:110 Spoiler:85 VisForVendetta:160
+Hitman:120 Island:90 CatchMeIfYouCan:110 Spoiler:85 VisForVendetta:160 Jackal:80 Sniper:120 FallBack:90
